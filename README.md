@@ -38,7 +38,8 @@ The following code snippet shows how to include multiple images in the "Diagnosi
 elif options == "Diagnosis Distribution":
     st.header("Distribution of Diagnoses")
     st.write("""
-    The images below display the distribution of different diagnoses, highlighting the most common conditions leading to patient admissions.
+    The images below display the distribution of different diagnoses,
+    highlighting the most common conditions leading to patient admissions.
     """)
 
     # Display the first image
