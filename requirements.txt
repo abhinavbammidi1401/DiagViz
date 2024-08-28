@@ -1,7 +1,0 @@
-Plotly
-plotly-express
-Faker
-pandas
-numpy
-Seaborn
-DateTime
